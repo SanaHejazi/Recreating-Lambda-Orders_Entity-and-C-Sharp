@@ -1,0 +1,12 @@
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\Sql&EntityFramework.exe.config
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\Sql&EntityFramework.exe
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\Sql&EntityFramework.pdb
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\EntityFramework.dll
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\EntityFramework.xml
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\obj\Debug\Sql&EntityFramework.csproj.AssemblyReference.cache
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\obj\Debug\Sql&EntityFramework.csproj.CoreCompileInputs.cache
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\obj\Debug\Sql&EntityFramework.csproj.CopyComplete
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\obj\Debug\Sql&EntityFramework.exe
+D:\Microsoft.Visual.Studio.2022\projects\C# Projects\Advanced\Console App\Training\Sql&EntityFramework\obj\Debug\Sql&EntityFramework.pdb
